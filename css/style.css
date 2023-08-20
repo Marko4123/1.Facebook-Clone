@@ -12,4 +12,25 @@ nav {
     align-items: center;
     justify-content: space-between;
     background: #1872f2;
+    padding: 5px 5%;
+}
+
+.logo {
+    width:160px;
+    margin-right: 45px;
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+}
+
+.nav-left ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.nav-left ul li img {
+    width:28px;
+    margin: 0 15px;
 }
